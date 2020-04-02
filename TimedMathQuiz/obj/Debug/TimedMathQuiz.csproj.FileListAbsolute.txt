@@ -1,0 +1,8 @@
+C:\Users\jzhang182\source\repos\TimedMathQuiz\bin\Debug\TimedMathQuiz.exe.config
+C:\Users\jzhang182\source\repos\TimedMathQuiz\bin\Debug\TimedMathQuiz.exe
+C:\Users\jzhang182\source\repos\TimedMathQuiz\bin\Debug\TimedMathQuiz.pdb
+C:\Users\jzhang182\source\repos\TimedMathQuiz\obj\Debug\TimedMathQuiz.Properties.Resources.resources
+C:\Users\jzhang182\source\repos\TimedMathQuiz\obj\Debug\TimedMathQuiz.csproj.GenerateResource.cache
+C:\Users\jzhang182\source\repos\TimedMathQuiz\obj\Debug\TimedMathQuiz.csproj.CoreCompileInputs.cache
+C:\Users\jzhang182\source\repos\TimedMathQuiz\obj\Debug\TimedMathQuiz.exe
+C:\Users\jzhang182\source\repos\TimedMathQuiz\obj\Debug\TimedMathQuiz.pdb
